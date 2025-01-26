@@ -1,2 +1,2 @@
 # cv-project2024
-computer vision project reidentification of wildlife using Mega-Descriptor
+Machine Learning project reidentification of wildlife using Mega-Descriptor
